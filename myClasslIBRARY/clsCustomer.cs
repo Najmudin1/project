@@ -11,5 +11,8 @@ namespace myClasslIBRARY
         public string Email { get; set; }
         public string Name { get; set; }
         public string PostCode { get; set; }
+
     }
+    // this is a comment to check the git hub
+    // i am trying to lear the git bash but it is blood complicated
 }
